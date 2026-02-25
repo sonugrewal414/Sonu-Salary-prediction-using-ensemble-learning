@@ -1,0 +1,14 @@
+# Salary Prediction using Ensemble Learning
+
+This project predicts salary using:
+- Random Forest
+- XGBoost
+- Voting Regressor
+
+## Files
+- model.py
+- salary_data.csv
+- requirements.txt
+
+## How to Run
+python model.py
